@@ -1,2 +1,2 @@
-# Sosei
-The organisation is active on [Codeberg](https://codeberg.org/Sosei) ;3
+# Kuroha
+The organisation is active on [Codeberg](https://codeberg.org/Kuroha) ;3
